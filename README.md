@@ -22,4 +22,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   
 
-<iframe>http://localhost:3001/render/passes/GEN-1773722188626-E7792446/interactive</iframe>
